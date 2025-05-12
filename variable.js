@@ -16,10 +16,10 @@
 
 function varScope() {
 
-    let typeLet = "Let variable"
+ {   let typeLet = "Let variable"
     const typeConst = "const variable"
     var typevar = "var variable"
-
+}
 
     console.log(typeLet)
     console.log(typeConst)
